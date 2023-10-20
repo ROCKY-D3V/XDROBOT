@@ -1,20 +1,3 @@
-import json
-
-import requests
-from telegram.ext import CommandHandler, run_async
-
-from MukeshRobot import dispatcher
-from MukeshRobot.modules.helper_funcs.alternate import send_message
-from MukeshRobot.modules.helper_funcs.chat_status import user_admin
-
-__mod_name__ = "📍𝙿ʜᴏɴᴇ📍"
-__help__ = """
-» /phone ꜰɪʟʟ ᴀɴʏ ᴍᴏʙɪʟᴇ ɴᴜᴍʙᴇʀ ᴛᴏ ᴄʜᴇᴄᴋ ɪɴꜰᴏ.
-
-
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆"""
-
-
 @run_async
 @user_admin
 def phone(update, context):
