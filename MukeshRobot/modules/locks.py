@@ -592,7 +592,7 @@ __help__ = """
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
 """
 
-__mod_name__ = "📍Lᴏᴄᴋs📍"
+__mod_name__ = "Lᴏᴄᴋs"
 
 LOCKTYPES_HANDLER = DisableAbleCommandHandler("locktypes", locktypes)
 LOCK_HANDLER = CommandHandler("lock", lock, pass_args=True)  # , filters=Filters.group)

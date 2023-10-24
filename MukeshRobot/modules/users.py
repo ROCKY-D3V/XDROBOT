@@ -177,7 +177,7 @@ def __migrate__(old_chat_id, new_chat_id):
 @app.on_message(filters.command("bcast") & filters.user(OWNER_ID))
 async def bcast(_, m : Message):
     get_all_users = users
-    lel = await m.reply_text("`⚡️ Processing...`")
+    lel = await m.reply_text("`️ Processing...`")
     success = 0
     failed = 0
     deactivated = 0
@@ -209,7 +209,7 @@ async def bcast(_, m : Message):
 @app.on_message(filters.command("fcast") & filters.user(OWNER_ID))
 async def fcast(_, m : Message):
     get_all_users = users
-    lel = await m.reply_text("`⚡️ Fcast Processing...`")
+    lel = await m.reply_text("`️ Fcast Processing...`")
     success = 0
     failed = 0
     deactivated = 0
@@ -250,5 +250,5 @@ dispatcher.add_handler(BROADCAST_HANDLER)
 dispatcher.add_handler(CHATLIST_HANDLER)
 dispatcher.add_handler(CHAT_CHECKER_HANDLER, CHAT_GROUP)
 
-__mod_name__ = "⚡ᴜsᴇʀs⚡"
+__mod_name__ = "ᴜsᴇʀs"
 __handlers__ = [(USER_HANDLER, USERS_GROUP), BROADCAST_HANDLER, CHATLIST_HANDLER]

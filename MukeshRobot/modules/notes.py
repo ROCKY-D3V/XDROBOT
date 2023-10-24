@@ -519,7 +519,7 @@ A button can be added to a note by using standard markdown link syntax - the lin
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
 """
 
-__mod_name__ = "⚡Nᴏᴛᴇs⚡"
+__mod_name__ = "Nᴏᴛᴇs"
 
 GET_HANDLER = CommandHandler("get", cmd_get)
 HASH_GET_HANDLER = MessageHandler(Filters.regex(r"^#[^\s]+"), hash_get)

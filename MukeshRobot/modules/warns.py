@@ -528,7 +528,7 @@ __help__ = """
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
 """
 
-__mod_name__ = "⚡Wᴀʀɴs⚡"
+__mod_name__ = "Wᴀʀɴs"
 
 WARN_HANDLER = CommandHandler(["warn", "dwarn"], warn_user, filters=Filters.group)
 RESET_WARN_HANDLER = CommandHandler(

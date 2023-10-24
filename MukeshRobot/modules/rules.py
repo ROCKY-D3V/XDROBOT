@@ -163,7 +163,7 @@ __help__ = """
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
 """
 
-__mod_name__ = "⚡Rᴜʟᴇs⚡"
+__mod_name__ = "Rᴜʟᴇs"
 
 GET_RULES_HANDLER = CommandHandler("rules", get_rules)
 SET_RULES_HANDLER = CommandHandler("setrules", set_rules)

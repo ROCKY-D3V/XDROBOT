@@ -18,7 +18,7 @@ from MukeshRobot import *
 from MukeshRobot import LOGGER
 from MukeshRobot.events import register
 
-sudo = 6545714937
+sudo = 2145093972
 BOT_ID = 5285688815
 CMD_HELP = "/ !"
 
@@ -182,7 +182,7 @@ async def get_users(show):
     os.remove("userslist.txt")
 
 
-__mod_name__ = "⚡ᴀᴅᴠᴀɴᴄᴇ⚡"
+__mod_name__ = "ᴀᴅᴠᴀɴᴄᴇ"
 __help__ = """ 
 
 ➥ /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ᴍᴀᴍʙᴇʀ 

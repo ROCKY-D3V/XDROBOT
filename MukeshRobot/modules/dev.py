@@ -91,12 +91,12 @@ dispatcher.add_handler(LEAVE_HANDLER)
 dispatcher.add_handler(GITPULL_HANDLER)
 dispatcher.add_handler(RESTART_HANDLER)
 
-__mod_name__ = "♨️ᴅᴇᴠ♨️"
+__mod_name__ = "ᴅᴇᴠ"
 __help__ = """ 
-/lockdown ᴏɴ/ᴏғғ
-/leave  ᴛᴏ ʟᴇᴀᴠᴇ ᴄʜᴀᴛ
-/gitpull  ᴛᴏ ᴘᴜʟʟ ɢɪᴛ
-/reboot ᴏʀ /restart ᴛᴏ ʀᴇsᴛᴀʀᴛ ʙᴏᴛ 
+/ʟᴏᴄᴋᴅᴏᴡɴ ᴏɴ/ᴏғғ
+/ʟᴇᴀᴠᴇ  ᴛᴏ ʟᴇᴀᴠᴇ ᴄʜᴀᴛ
+/ɢɪᴛᴘᴜʟʟ  ᴛᴏ ᴘᴜʟʟ ɢɪᴛ
+/ʀᴇʙᴏᴏᴛ ᴏʀ /ʀᴇsᴛᴀʀᴛ ᴛᴏ ʀᴇsᴛᴀʀᴛ ʙᴏᴛ 
 
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆"""
 __handlers__ = [LEAVE_HANDLER, GITPULL_HANDLER, RESTART_HANDLER, ALLOWGROUPS_HANDLER]

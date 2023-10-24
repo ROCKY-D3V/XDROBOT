@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/the_vip_boy)♨️
+ ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗥𝗢𝗖𝗞𝗬](https://t.me/ROCKY_ISS_BACK)♨️
   
 ╚═════ஜ۩۞۩ஜ════╝
 
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "📍ʀᴇᴘᴏ📍",
-                        url="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+                        url="https://t.me/N91Ab/6",
                     ),
                 ]
             ]
@@ -42,7 +42,7 @@ async def repo(client, message):
     )
 
 
-__mod_name__ = "⚡Rᴇᴩᴏ⚡"
+__mod_name__ = "Rᴇᴩᴏ"
 _help__ = """
  /repo  ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 
  /source ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ

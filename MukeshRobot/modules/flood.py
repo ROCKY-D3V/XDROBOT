@@ -421,7 +421,7 @@ __help__ = """
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
  """
 
-__mod_name__ = "♨️ꜰʟᴏᴏᴅ♨️"
+__mod_name__ = "ꜰʟᴏᴏᴅ"
 
 FLOOD_BAN_HANDLER = MessageHandler(
     Filters.all & ~Filters.status_update & Filters.group, check_flood

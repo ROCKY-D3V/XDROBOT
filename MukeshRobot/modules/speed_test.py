@@ -66,6 +66,6 @@ __help__ = """
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
 """
 
-__mod_name__ = "⚡SᴘᴇᴇᴅTᴇsᴛ⚡​"
+__mod_name__ = "SᴘᴇᴇᴅTᴇsᴛ​"
 __command_list__ = ["speedtest"]
 __handlers__ = [SPEED_TEST_HANDLER, SPEED_TEST_CALLBACKHANDLER]

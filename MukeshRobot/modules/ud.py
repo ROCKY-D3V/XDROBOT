@@ -29,6 +29,6 @@ __help__ = """
 
 ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
 """
-__mod_name__ = "⚡Uʀʙᴀɴ⚡"
+__mod_name__ = "Uʀʙᴀɴ"
 __command_list__ = ["ud"]
 __handlers__ = [UD_HANDLER]
